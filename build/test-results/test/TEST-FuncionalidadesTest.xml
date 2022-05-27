@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FuncionalidadesTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-27T17:01:45" hostname="DESKTOP-VLQBU5O" time="0.061">
+  <properties/>
+  <testcase name="qntddRoupasInt()" classname="FuncionalidadesTest" time="0.052"/>
+  <testcase name="qntddParteCima()" classname="FuncionalidadesTest" time="0.001"/>
+  <testcase name="qntddParteBaixo()" classname="FuncionalidadesTest" time="0.003"/>
+  <system-out><![CDATA[A quantidade de peças íntimas que você deve levar é: 1.5
+A quantidade de peças da parte de cima que você deve levar é: 1.5
+A quantidade de peças da parte de baixo que você deve levar é: 0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
